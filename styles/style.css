@@ -1,0 +1,35 @@
+#dragme:before {
+	content: 'Drag me to bookmark bar';
+}
+#dragme {
+	text-decoration: none;
+	line-height: 2em;
+	padding: 0.6em 0.8em;
+	background: #0C6291;
+	color: white;
+	margin: 2em 0px;
+	border-radius: 6px;
+}
+body {
+	font-family: 'Nunito', sans-serif;
+}
+h1 {
+	font-size: 48px;
+}
+h1, h2, p {
+	text-align: center;
+}
+img.screenshot {
+	max-width: 1200px;
+	width: 90%;
+	height: auto;
+}
+.center {
+	text-align: center;
+}
+.left {
+	text-align: left;
+}
+p.dragme {
+	margin: 3em 0px 1em 0px;
+}
