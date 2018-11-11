@@ -1,7 +1,7 @@
-# divicon
+# Divicon
 
 ![](res/image.png)
 
-Make Your Bookmark Bar Useful and Beautiful.
+Make your bookmark bar useful and beautiful.
 
 https://kawmra.github.io/divicon/
